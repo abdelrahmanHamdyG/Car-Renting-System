@@ -1,4 +1,4 @@
-# Car Rental System - C++ Console Simulation
+# Car Rental System - C++ Console Application
 
 The Car Rental System is a command-line (console) application developed in C++ that simulates a car rental platform. It provides a platform for car owners to offer their cars for rent, and renters to browse and book available cars. This project showcases the implementation of Object-Oriented Programming (OOP) concepts, design patterns (singleton , MVC etc ), and code refactoring techniques(extracting methods ,consolidate conditional expression, etc) to ensure a well-structured and maintainable codebase.
 
