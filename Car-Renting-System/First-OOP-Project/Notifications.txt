@@ -1,0 +1,12 @@
+newCarAdded 0 Mercedes -1 5/19/4/2023
+newCarAdded 1 Verna -1 5/19/4/2023
+carRented 2 Verna 0.000000 5/19/4/2023
+newCarAdded 3 mssk -1 9/26/5/2023
+carRented 4 mssk 0.000000 9/26/5/2023
+newCarAdded 5 lw -1 9/26/5/2023
+carRented 6 lw 67.199997 9/26/5/2023
+newCarAdded 7 salah_car_but -1 9/26/5/2023
+carRented 8 salah_car_but 0.000000 9/26/5/2023
+carRented 9 salah_car_but 0.000000 9/26/5/2023
+newCarAdded 10 aa -1 9/26/5/2023
+carRented 11 aa 1452.800049 9/26/5/2023
