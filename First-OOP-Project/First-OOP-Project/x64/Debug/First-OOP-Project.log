@@ -1,0 +1,7 @@
+﻿  Car.cpp
+D:\afterOma\First-OOP-Project\First-OOP-Project\First-OOP-Project\Car.cpp(271,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\afterOma\First-OOP-Project\First-OOP-Project\First-OOP-Project\Car.cpp(281,15): warning C4305: '*=': truncation from 'double' to 'float'
+  Renter.cpp
+D:\afterOma\First-OOP-Project\First-OOP-Project\First-OOP-Project\Renter.cpp(168,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  First-OOP-Project.vcxproj -> D:\afterOma\First-OOP-Project\First-OOP-Project\x64\Debug\First-OOP-Project.exe

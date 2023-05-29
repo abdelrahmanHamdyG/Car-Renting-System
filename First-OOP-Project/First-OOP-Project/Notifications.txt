@@ -1,0 +1,11 @@
+newCarAdded 0 Mercedes -1 5/17/4/2023
+carRented 1 Mercedes 54.000000 6/17/4/2023
+carRented 2 Mercedes 0.000000 6/17/4/2023
+carVerification 3 BMW -1 6/17/4/2023
+newCarAdded 4 Mazda -1 6/17/4/2023
+newCarAdded 5 Chevorlet -1 7/17/4/2023
+newCarAdded 6 Garar -1 7/17/4/2023
+carRented 7 Mazda 100.000000 7/17/4/2023
+carRented 8 Mercedes 54.000000 7/17/4/2023
+newCarAdded 9 ferrari -1 7/17/4/2023
+carRented 10 ferrari 855.000000 7/17/4/2023
